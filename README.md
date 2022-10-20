@@ -11,5 +11,5 @@ Next.js
 
 🔭 Estoy aprendiendo
 React Native
-Unit Testing
+Jest
 
